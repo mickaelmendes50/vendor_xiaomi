@@ -325,4 +325,5 @@ PRODUCT_PACKAGES += \
     qcrilhook \
     tcmclient \
     chargeonlymode \
-    libaudioparsers
+    libaudioparsers \
+    libplatformconfig
