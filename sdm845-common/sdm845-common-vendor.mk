@@ -152,7 +152,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sdm845-common/proprietary/framework/vendor.qti.ims.callinfo-V1.0-java.jar:system/framework/vendor.qti.ims.callinfo-V1.0-java.jar \
     vendor/xiaomi/sdm845-common/proprietary/framework/vendor.qti.ims.rcsconfig-V1.0-java.jar:system/framework/vendor.qti.ims.rcsconfig-V1.0-java.jar \
     vendor/xiaomi/sdm845-common/proprietary/framework/vendor.qti.latency-V2.0-java.jar:system/framework/vendor.qti.latency-V2.0-java.jar \
-    vendor/xiaomi/sdm845-common/proprietary/lib/android.hardware.soundtrigger@2.0-core.so:system/lib/android.hardware.soundtrigger@2.0-core.so \
     vendor/xiaomi/sdm845-common/proprietary/lib/com.qualcomm.qti.dpm.api@1.0.so:system/lib/com.qualcomm.qti.dpm.api@1.0.so \
     vendor/xiaomi/sdm845-common/proprietary/lib/com.qualcomm.qti.imscmservice@1.0.so:system/lib/com.qualcomm.qti.imscmservice@1.0.so \
     vendor/xiaomi/sdm845-common/proprietary/lib/com.qualcomm.qti.imscmservice@2.0.so:system/lib/com.qualcomm.qti.imscmservice@2.0.so \
@@ -178,13 +177,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sdm845-common/proprietary/lib/libimsmedia_jni.so:system/lib/libimsmedia_jni.so \
     vendor/xiaomi/sdm845-common/proprietary/lib/liblocationservice_jni.so:system/lib/liblocationservice_jni.so \
     vendor/xiaomi/sdm845-common/proprietary/lib/libmdsprpc_system.so:system/lib/libmdsprpc_system.so \
-    vendor/xiaomi/sdm845-common/proprietary/lib/libmmosal.so:system/lib/libmmosal.so \
-    vendor/xiaomi/sdm845-common/proprietary/lib/libmmparser_lite.so:system/lib/libmmparser_lite.so \
     vendor/xiaomi/sdm845-common/proprietary/lib/libmmrtpdecoder.so:system/lib/libmmrtpdecoder.so \
     vendor/xiaomi/sdm845-common/proprietary/lib/libmmrtpencoder.so:system/lib/libmmrtpencoder.so \
     vendor/xiaomi/sdm845-common/proprietary/lib/libqmi_cci_system.so:system/lib/libqmi_cci_system.so \
-    vendor/xiaomi/sdm845-common/proprietary/lib/libqti-iopd-client_system.so:system/lib/libqti-iopd-client_system.so \
-    vendor/xiaomi/sdm845-common/proprietary/lib/libqti-util_system.so:system/lib/libqti-util_system.so \
     vendor/xiaomi/sdm845-common/proprietary/lib/librcc.so:system/lib/librcc.so \
     vendor/xiaomi/sdm845-common/proprietary/lib/libsd_sdk_display.so:system/lib/libsd_sdk_display.so \
     vendor/xiaomi/sdm845-common/proprietary/lib/libsdm-disp-apis.so:system/lib/libsdm-disp-apis.so \
@@ -263,13 +258,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sdm845-common/proprietary/lib64/libimsmedia_jni.so:system/lib64/libimsmedia_jni.so \
     vendor/xiaomi/sdm845-common/proprietary/lib64/liblocationservice_jni.so:system/lib64/liblocationservice_jni.so \
     vendor/xiaomi/sdm845-common/proprietary/lib64/libmdsprpc_system.so:system/lib64/libmdsprpc_system.so \
-    vendor/xiaomi/sdm845-common/proprietary/lib64/libmmosal.so:system/lib64/libmmosal.so \
-    vendor/xiaomi/sdm845-common/proprietary/lib64/libmmparser_lite.so:system/lib64/libmmparser_lite.so \
     vendor/xiaomi/sdm845-common/proprietary/lib64/libmmrtpdecoder.so:system/lib64/libmmrtpdecoder.so \
     vendor/xiaomi/sdm845-common/proprietary/lib64/libmmrtpencoder.so:system/lib64/libmmrtpencoder.so \
     vendor/xiaomi/sdm845-common/proprietary/lib64/libqmi_cci_system.so:system/lib64/libqmi_cci_system.so \
-    vendor/xiaomi/sdm845-common/proprietary/lib64/libqti-iopd-client_system.so:system/lib64/libqti-iopd-client_system.so \
-    vendor/xiaomi/sdm845-common/proprietary/lib64/libqti-util_system.so:system/lib64/libqti-util_system.so \
     vendor/xiaomi/sdm845-common/proprietary/lib64/librcc.so:system/lib64/librcc.so \
     vendor/xiaomi/sdm845-common/proprietary/lib64/libsd_sdk_display.so:system/lib64/libsd_sdk_display.so \
     vendor/xiaomi/sdm845-common/proprietary/lib64/libsdm-disp-apis.so:system/lib64/libsdm-disp-apis.so \
