@@ -324,4 +324,5 @@ PRODUCT_PACKAGES += \
     dpmapi \
     qcrilhook \
     tcmclient \
-    chargeonlymode
+    chargeonlymode \
+    libaudioparsers
